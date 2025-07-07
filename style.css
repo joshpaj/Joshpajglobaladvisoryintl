@@ -1,0 +1,41 @@
+/* Global Styles */ body { margin: 0; font-family: 'Poppins', sans-serif; background-color: #ffffff; color: #000000; line-height: 1.6; }
+
+.container { width: 90%; max-width: 1200px; margin: 0 auto; padding: 20px 0; }
+
+header { background-color: #000000; color: #ffffff; padding: 20px 0; }
+
+.logo { height: 60px; }
+
+nav { float: right; }
+
+nav a { color: #ffffff; text-decoration: none; margin-left: 20px; font-weight: 600; }
+
+.hero { text-align: center; padding: 80px 20px; background-color: #f4f4f4; }
+
+.hero h1 { font-size: 2rem; margin-bottom: 10px; }
+
+.hero p { font-size: 1.1rem; color: #333333; }
+
+.services, .testimonials, .about, .contact { padding: 40px 20px; }
+
+.services h2, .testimonials h2, .about h2, .contact h1, .about h1 { text-align: center; margin-bottom: 30px; }
+
+.services ul { list-style-type: disc; padding-left: 40px; }
+
+.testimonials blockquote { background-color: #eeeeee; padding: 20px; margin: 20px 0; border-left: 5px solid #000000; }
+
+.testimonials footer { font-style: italic; text-align: right; margin-top: 10px; }
+
+.about ul { list-style-type: square; padding-left: 40px; }
+
+.contact-icons { text-align: center; margin-top: 20px; }
+
+.contact-icons a { margin: 0 10px; display: inline-block; }
+
+.contact-icons img, .footer-icons img { width: 30px; height: 30px; }
+
+footer { text-align: center; background-color: #000000; color: #ffffff; padding: 20px 0; margin-top: 40px; }
+
+.footer-icons a { margin: 0 8px; }
+
+     
